@@ -1,7 +1,5 @@
 # Say friend and enter 🧙
 
-Hi! my name is Moizes Ferreira, I'm from Brazil, its a pleasure,currently I'm working with Full-stack development
-
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
