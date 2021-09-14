@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  :technologist:	 Linguagens: <strong>JavaScript, Typescript, Dart.</strong>
+  :technologist:	 Languages: <strong>JavaScript, Typescript, Dart.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>NodeJs,Express,NestJs,React,Flutter.</strong>
+  💼 Tools: <strong>NodeJs,Express,NestJs,React,Flutter.</strong>
 </p>
 
 <p align="left">
