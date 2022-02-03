@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>NodeJs,Express,NestJs,React,Flutter.</strong>
+  💼 Tools: <strong>NodeJs, Express, NestJs, React, Flutter.</strong>
 </p>
 
 <p align="left">
